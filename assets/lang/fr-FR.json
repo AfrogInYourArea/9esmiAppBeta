@@ -1,0 +1,22 @@
+{
+  "title": "Créer un compte",
+  "full_name": "Nom complet",
+  "phone": "Numéro de téléphone",
+  "email": "Adresse e-mail",
+  "password": "Mot de passe",
+  "sign_up": "S'inscrire",
+  "or_sign_up_with": "Ou s'inscrire avec",
+  "login_prompt": "Vous avez déjà un compte ?",
+  "login": "Connexion",
+  "login_title": "bon retour",
+  "terms": "conditions d'utilisation",
+  "privacy": "politique de confidentialité",
+  "agree": "J'accepte les ",
+  "app_name": "5 Minute School",
+  "tagline": "Étudiez n'importe où, apprenez en ligne",
+  "left_banner": "Apprenez des meilleurs instructeurs du monde entier",
+  "illustration_caption": "📘 Illustration d'apprentissage",
+  "no_account":"Pas de compte ?"
+}
+
+

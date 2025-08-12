@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "568976005502",
+    "project_id": "esmi-f15fb",
+    "storage_bucket": "esmi-f15fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568976005502:android:eec7cc7cba5f26edd77b2f",
+        "android_client_info": {
+          "package_name": "com.mycompany.app9esmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568976005502-npp2qc82j9fj839ehvhr3esq88khg17k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.app9esmi",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "568976005502-6begmf4kvp1ktoh9bqa110hvkga9sqb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjSIXrh9d_FQ-XLN-DisLS-HwD5B2gIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568976005502-6begmf4kvp1ktoh9bqa110hvkga9sqb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568976005502-u0ju5u3kmn2684tnscrekih60qndoq0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.app9esmi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
